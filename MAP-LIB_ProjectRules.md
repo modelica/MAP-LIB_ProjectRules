@@ -1,152 +1,198 @@
-**Project Rules of Modelica Association Project – Libraries**
+1 Project name
+==============
 
-**Project name**
+-   Modelica Association Project - Libraries (MAP-LIB)
 
-  --------------------
-  Modelica Libraries
-  --------------------
+2 Version / Changes
+===================
 
-**Version / Changes**
+  **Date**     **Comment**
+  ------------ ---------------------------------------------------------------------------------------------------------------------------------------------
+  2018-02-12   > improved and simplified draft (Thomas Beutlich & Dietmar Winkler)
+  2017-02-27   > proposal by Anton Haumer, based on Application dated 2012-05-08, discussions in trac ticket \#1994, and iteration during several meetings
 
-  ---------------------------------------------------------------------------------
-  2017-02-27 proposal by Anton Haumer, based on Application dated 2012-05-08,\
-  discussions in trac ticket \#1994, and iteration during several meetings
+Since the annexes are subject to more frequent changes than the project
+rules, the version of the annexes is tracked in the corresponding annex:
 
-  Since the annexes are subject to more frequent changes than the project rules,\
-  the version of the annexes is tracked in the corresponding annex:
+-   Annex 1: Libraries covered by MAP-LIB
 
-  Annex 1 Libraries covered by this project
+-   Annex 2: Library Officers
 
-  Annex 2 Library Officers
+-   Annex 3: Project Leader and Project Deputy
 
-  Annex 3 Advisory Members
+-   Annex 4: Recommendation for a Release Process
 
-  Annex 4 Project Leader and Project Deputy
+-   Annex 5: Recommended Release Schedule
 
-  Annex 5 Release Schedule of Category 1 Libraries
-  ---------------------------------------------------------------------------------
+3 Project Purpose
+=================
 
-**Project purpose**
+Development, maintenance, quality assurance and promotion of open source
+Modelica libraries to provide Modelica model components in many domains
+based on standardized interface definitions.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Development, maintenance, quality assurance and promotion of open source Modelica libraries to provide Modelica model components in many domains based on standardized interface definitions.
+3.1 Covered Libraries
+---------------------
 
-  There are three categories of libraries developed in this project:
+Any library that should be covered by MAP-LIB needs approval of the
+Project Members by qualified majority of the Project Members.
 
-  Category 1 Standard Libraries under strict release and maintenance conditions
+Libraries that are covered by MAP-LIB are listed in Annex 1.
 
-  Category 2 Libraries that are standard conformant with limited release and maintenance support
+4 License of Project Results
+============================
 
-  Category 3 Libraries that are not standard conformant with limited release and maintenance support
+All Modelica libraries of this project must be published under the BSD
+3-Clause License. The license text is available from:
+[*https://modelica.org/licenses/modelica-3-clause-bsd*](https://modelica.org/licenses/modelica-3-clause-bsd)\
+\
+Whenever somebody submits a contribution to this project, he/she accepts
+that it may be published by the Modelica Association (MA) under the BSD
+3-Clause License, even without explicit approval.
 
-  The corresponding libraries are listed in Annex 1.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+New releases of libraries covered by MAP-LIB have to be sent to MA for
+approval according to §2 of MA Bylaws.
 
-**License of project results**
+5 Project Rules
+===============
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  All Modelica libraries of this project are published under the Modelica License 2 (or follow-up versions of this license). The license text is available from: [*https://www.modelica.org/licenses/ModelicaLicense2*](https://www.modelica.org/licenses/ModelicaLicense2)
+The project rules are according to the rules of the MA bylaws. In
+particular:
 
-  Whenever somebody submits a contribution to this project, he accepts that it may be published by MA under the Modelica License 2, even without explicit approval.
+5.1 Membership
+--------------
 
-  New releases of Category 1 Libraries have to be sent to MA for approval according to §2 of MA Bylaws.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 5.1.1 Project Members
 
-**Project rules**
+Membership in this project is open to individual persons, companies,
+institutes, universities and other organizations, which agree to support
+the purpose of this project and follow the project rules.\
+An organizational MA member has to appoint an individual person
+affiliated to the organization to represent the organization in all
+matters related to this project. This person is the organization’s
+liaison member.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  The project rules are according to the rules of the Modelica Association Bylaws. In particular:
+Every MA member or organization’s liaison member can become a Project
+Member upon written request to the Project Leader. Membership begins at
+the next project meeting where the Project Leader has to announce the
+new members at the meeting.
 
-  **Project members**
+Membership application of neither MA members nor organization’s liaison
+members requires a vote with a qualified majority of the Project
+Members.
 
-  Membership in this project is open to individual persons, companies, institutes, universities and other organizations, which agree to support the purpose of this project and follow the project rules.\
-  An organizational member has to appoint an individual person affiliated to the organization to represent the organization in all matters related to this project. This person is the organization’s liaison member.
+The Project Members are listed in Annex 2.
 
-  Project members are divided into two groups that have different rights:
+### 5.1.2 Library Officers
 
-  *Group 1: Library Officers*
+1.  For every library or sublibrary covered by MAP-LIB , two or more
+    > Library Officers are assigned that are responsible for the
+    > maintenance and for the further organization of the development.
+    > Other people may also contribute, but the final decision for
+    > library improvements and/or changes is performed by the
+    > responsible Library Officers. If a library is maintained by
+    > several Library Officers, they shall approve the proposed changes
+    > to find a consensus.
 
-  The library officers are listed in Annex 2.
+2.  Library Officers are assigned in one of the following ways:
 
-  1.  For every library or sublibrary of Category 1, two or more library officers are assigned that are responsible for the maintenance and for the further organization of the development. Other members may also contribute, but the final decision for library improvements and/or changes is performed by the responsible library officers. If a library is maintained by several library officers, they shall perform a decision by voting. A positive vote requires a qualified majority of the respective library officers of this library or sublibrary (see below).\
-      Library officers have to be personal members of the MA.
+    a.  When a new library or sublibrary is provided, a copyright
+        > transfer contract has to be signed between the contributor(s)
+        > and the MA or the contributor(s) assigns an appropriate
+        > license to the MA. In this contract the initial Library
+        > Officers might be defined. For future contributions a
+        > Contributor License Agreement (CLA) has to be signed by
+        > all contributors.
 
-  2.  Library officers are assigned in one of the following ways:
+    b.  New Library Officers can be assigned by the Project Members for
+        > the same library/sublibrary, with a qualified majority of all
+        > Project Members.
 
-  -   When a new library or sublibrary is provided, a copyright transfer contract has to be signed between the contributor(s) and the Modelica Association, or the contributor(s) assigns an appropriate license to the Modelica Association. In this contract the initial library officers might be defined.
+    c.  Initial Library Officers may be defined (if not defined in a
+        > copyright transfer or license contract), library officers may
+        > be removed and/or new Library Officers may be appointed, if
+        > Library Officers resign and/or library officers are inactive
+        > to the extent that it damages the further development of the
+        > library and/or do not work in the interest of this project.
+        > Decisions on Library Officers changes shall be approved by the
+        > Project Members with a qualified majority
 
-  -   New library officers can be assigned by the project members for the same library/sublibrary, with a qualified majority of all project members, and provided no other decision stands against it.
+3.  All Library Officers need to be Project Members.
 
-  -   Initial library officers may be defined (if not defined in a copyright transfer or license contract), library officers may be removed and/or new library officers may be appointed, if library officers resign and/or library officers do not work well for the further development of the library and/or do not work in the interest of this project. All such decisions shall be approved by all project members with a qualified majority.
+4.  In order that a library or sublibrary is ready to be released, the
+    > responsible Library Officers have to report the changes to all
+    > Project Members (usually via the release notes). Feedback and
+    > improvement suggestions shall be taken into account.
 
-  1.  In order that a library or sublibrary is ready to be released, the responsible library officers have to report the changes to all project members (usually via the release notes). Feedback and improvement suggestions shall be taken into account. The library shall be made available for beta testing to interested parties before a final decision. Modelica libraries of this project shall only use language elements of the published Modelica language specifications. A new release is formally decided by a qualified majority of all project members (see below). Electronic voting is possible and is performed according to §14 of the Modelica Bylaws.
+The Library Officers are listed in Annex 3.
 
-  *Group 2: Advisory Members*
+### 5.1.3 Project Leader and Project Deputy
 
-  The Advisory Members are listed in Annex 3.
+All Project Members elect a Project Leader and a Project Deputy for two
+years with qualified majority (see below). The Project Leader and the
+Project Deputy have to be individual members of the MA.
 
-  1.  Consists of personal and organizational members,\
-      e.g. but not limited to tool vendors, library developers and experienced users.
+The Project Leader has to organize meetings (at least six per year, in
+person or online), organize the releases in conformance with the library
+officers, maintain the Annexes of the project rules and report to MA.
 
-  2.  Contribute to the development, maintenance, quality assurance and promotion of Modelica Libraries maintained by this Modelica Project.
+The Project Deputy has to support the Project Leader and to stand in for
+the Project Leader whenever the Project Leader is unable to fulfill
+his/her duties.
 
-  3.  The Advisory Members group is open for additional members that fulfill the following requirements:.\
-      Applicants must have participated at least at two library meetings in the last 24 months, or distribute one or more libraries of this project with a released product (tool or library).\
-      All project members decide about the membership with simple majority (see below).
+Whenever an issue arises where no consensus (based on a qualified
+majority) can be found within MAP-LIB, the Project Leader has to ask the
+MA Board for advice or a decision. Failing this, the Project Members can
+(based on a qualified majority) ask the MA Board to trigger an
+extraordinary election for the Project Leader/Deputy.
 
-  *Project Leader and Project Deputy*
+The Project Leader and the Project Deputy are listed in Annex 4.
 
-  The Project Leader and the Project Deputy are listed in Annex 4.
+5.2 Voting
+----------
 
-  All project members elect a project leader and a project deputy for 2 years with qualified majority (see below). The project leader and the project deputy have to be members of the Modelica Association.
+Voting is performed by all Project Members according to §14 of the MA
+Bylaws, but with a quorum of 9 Project Members. At least 5 of these
+members have to be Library Officers.
 
-  The project leader has to organize meetings (at least 4 per year, in person or via web / phone), organize the releases in conformance with the library officers, and report to MA.
+5.3 Meetings
+------------
 
-  Whenever a critical issue cannot be decided within MAP-Lib, the project leader has to ask the MA board for advice or a decision.
+Project meetings have to be announced at least one week in advance in
+the respective mailing lists
 
-  The project deputy has to support the project leader and to stand in for the project leader whenever the project leader is unable to take over his duties.
+-   [*map-lib@modelica.org*](mailto:map-lib@modelica.org)
 
-  **Voting**
+-   [*modelica-design@modelica.org*](mailto:modelica-design@modelica.org).
 
-  Voting is performed by all project members according to § 14 of the MA Bylaws,\
-  but with a quorum of 9 project members.\
-  At least 5 of these members have to be Library Officers, and one of these members has to be either the project leader or the project deputy. Every voting can be performed electronically according to § 14 of the MA Bylaws.
+The meeting material (e.g., minutes, documents, presentations) is
+accessible to all members of the MA. A publication of this material
+needs approval of all participants of the respective meeting.
 
-  “Working days” are defined as in the MA Bylaws.
+5.4 Library Releases
+--------------------
 
-  **Meetings**\
-  Library meetings are announced in the respective mailing lists:\
-  [*map-lib@modelica.org*](mailto:map-lib@modelica.org), [*modelica-design@modelica.org*](mailto:modelica-design@modelica.org).
+Releases of libraries covered by MAP-LIB can be initiated in two ways:
 
-  The meeting material (minutes, documents, presentations) is available on the private MAP-Lib repository. A publication of this material needs approval of all participants of the respective meeting.
+1.  The Project Leader or the Project Deputy initiates a new release.
 
-  **Release Process for Libraries of Category 1**
+2.  A Library Officer suggests a the initiation of a new release. The
+    > Project Members then vote on having a new release as suggested by
+    > the Library Officer. A positive vote requires a qualified majority
+    > of the Project Members.
 
-  -   A new main version of these libraries should be released once a year typically around March 15^th^.
+A Recommendation for a Release Process for libraries is given in Annex 5
+and a Recommended Release Schedule for libraries is given in Annex 6.
 
-  -   A maintenance version of these libraries should be released once a year typically around Sept. 15^th^.
+6 Annex
+=======
 
-  -   The whole process from first alpha version to the final release should not take longer than 2 months.
+6.1 Annex 1: Libraries covered by MAP-LIB
+-----------------------------------------
 
-  -   Minor bugs or missing components shall not block the release. These pieces of work shall be included in the following release or maintenance release.
+*(2018-02-12)*
 
-  -   The quality of the libraries is assured by regression testing with at least 2 different tools, in comparison with the previous version. The advisory members shall support the release process actively, especially the regression tests. Further quality assurance tests might be added.
-
-  The Release Schedule for libraries of category 1 is given in annex 5. Changes to this release schedule have to be approved by all project members with qualified majority.
-
-  Libraries of Category 1 do not necessarily have to be released as monolithic libraries. As soon as a mechanism for modular distribution is available and accepted by all project members with qualified majority, these libraries can be released in granular modules.
-
-  **Release Process for Libraries of Category 2 and 3**
-
-  Development and maintenance of libraries of Category 2 and 3 is organized by the developers individually. However, the developers have to guarantee that these libraries are consistent with the libraries of Category 1.
-
-  When a new library should be included in Category 2 or 3, or a library should be raised to a higher Category, the library has to be reviewed by all project members and approved by a qualified majority of all project members.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Annex 1: Libraries covered by MAP-Lib 2016-09-11**
-
-Category 1 Standard Libraries under strict release and maintenance
-conditions:
+Libraries under strict release and maintenance conditions:
 
 -   Modelica (MSL, Modelica Standard Library)
 
@@ -158,54 +204,73 @@ conditions:
 
 -   ModelicaTest
 
-Category 2 Libraries that are standard conformant with limited release
-and maintenance support:
+-   ModelicaTestOverdetermined
 
--   Modelica\_Synchronous
+-   ObsoleteModelica3
 
--   PowerSystems
+**6.2 Annex 2: Project Members**
 
--   Modelica\_VehicleInterfaces
+*(2018-02-12)*
 
-Category 3 Libraries that are not standard conformant with limited
-release and maintenance support:
+Names with question mark are Library Officers, but not (yet) Project
+Members:
 
--   Modelica\_ExternalMedia
+-   Andreasson, Johan
 
--   Modelica\_DeviceDrivers
+-   Beutlich, Thomas
 
--   Modelica\_EnergyStorages
+-   Bödrich, Thomas
 
--   Modelica\_LinearSystems2
+-   Brück, Dag
 
--   Modelica\_StateGraph2
+-   Casella, Francesco
 
-Requirements to list a library in Category 1:
+-   Clauß, Christoph
 
-Defined in the section “Release Process for Libraries of Category 1”
-above.
+-   Franke, Rüdiger
 
-Requirements to list a library in Category 2:
+-   Gall, Leo
 
--   Conformant to latest Modelica Language Specification
+-   Haumer, Anton
 
--   Uses the latest release of MSL
+-   Hedberg, Daniel ?
 
--   Documentation is complete
+-   Kral, Christian
 
--   Is under active maintenance
+-   Majetta, Kristin ?
 
-Libraries listed in Category 3 may be not yet completed, not yet
-completely documented, not be maintained or use language features that
-are not yet standardized.
+-   Olsson, Hans
 
-**Annex 2: Library Officers 2016-09-11**
+-   Otter, Martin
 
-  ---------------------------- ---------------------------------------------------------
+-   Prölss, Katrin
+
+-   Sjölund, Martin
+
+-   Tiller, Michael
+
+-   Tummescheit, Hubertus
+
+-   Wernersson, Karl
+
+-   Winkler, Dietmar
+
+-   Wischhusen, Stefan
+
+-   Ziegler, Stephan
+
+-   Ziske, Johannes
+
+6.2 Annex 3: Library Officers
+-----------------------------
+
+*(2018-02-12)*
+
   **Library**                  **Library Officers**
+  ---------------------------- -----------------------------------------------------------
   Blocks                       Martin Otter, Anton Haumer
   ComplexBlocks                Anton Haumer, Christian Kral
-  Tables                       Thomas Beutlich, Martin Otter, Anton Haumer
+  Blocks.Tables                Thomas Beutlich, Martin Otter, Anton Haumer
   StateGraph                   Martin Otter, Hans Olsson
   Electrical.Analog            Christoph Clauss, Kristin Majetta, Christian Kral
   Electrical.Digital           Christoph Clauss, Kristin Majetta
@@ -214,15 +279,15 @@ are not yet standardized.
   Electrical.PowerConverters   Christian Kral, Anton Haumer
   Electrical.QuasiStationary   Anton Haumer, Christian Kral
   Electrical.Spice3            Christoph Clauss, Kristin Majetta
-  Magnetic.FluxTubes           Thomas,Bödrich, Johannes Ziske
+  Magnetic.FluxTubes           Thomas Bödrich, Johannes Ziske
   Magnetic.FundamentalWave     Christian Kral, Anton Haumer
   Magnetic.QuasiStatic         Christian Kral, Anton Haumer
-  Mechanics.MultiBody          Martin Otter, t.b.d.
-  Mechanics.Rotational         Martin Otter, Anton Haumer, Christian Kral
-  Mechanics.Translational      Anton Haumer, Martin Otter, Christian Kral
+  Mechanics.MultiBody          Jakub Tobolar, Martin Otter
+  Mechanics.Rotational         Jakub Tobolar, Martin Otter, Anton Haumer, Christian Kral
+  Mechanics.Translational      Anton Haumer, Jakub Tobolar, Martin Otter, Christian Kral
   Fluid                        Rüdiger Franke, Francesco Casella, Hubertus Tummescheit
   Fluid.Dissipation            Stefan Wischhusen, Francesco Casella
-  Media                        Huberts Tummescheit, Francesco Casella, Rüdiger Franke
+  Media                        Hubertus Tummescheit, Francesco Casella, Rüdiger Franke
   Thermal.FluidHeatFlow        Anton Haumer, Christian Kral
   Thermal.HeatTransfer         Anton Haumer, Christian Kral
   Math                         Martin Otter, Hans Olsson
@@ -232,74 +297,102 @@ are not yet standardized.
   Icons                        Daniel Hedberg, Christian Kral
   SIunits                      Martin Otter, Christian Kral
   C-Sources                    Thomas Beutlich, Hans Olsson, Martin Sjölund
-  Reference                    Dietmar Winkler, t.b.d.
-  Services                     t.b.d.
-  Complex                      t.b.d.
+  Reference                    Dietmar Winkler, Hans Olsson
+  Services                     Hans Olsson, Martin Otter
+  Complex                      Anton Haumer, Christian Kral
   Test                         Leo Gall, Martin Otter
-  ---------------------------- ---------------------------------------------------------
+  TestOverdetermined           Leo Gall, Martin Otter
+  ObsoleteModelica3            Hans Olsson, Martin Otter
 
-**Annex 3: Advisory members 2016-09-11**
+6.3 Annex 4: Project Leader and Project Deputy
+----------------------------------------------
 
-***Tool vendors (please nominate a person responsible for testing)***
+(2018-XX-XX)
 
-  ------------------- -----------------------------------------------
-  **Tool**            **Liaison member of respective organization**
-  Amesim
-  Dymola
-  JModelica.org
-  MapleSim
-  MWorks.Sysplorer
-  OpenModelica
-  SimulationX
-  SystemModeler
-  IGNITE (Ricardo)
-  Simplorer (Ansys)
-  ------------------- -----------------------------------------------
-
-***Power users***
-
-t.b.d.
-
-**Annex 4: Project Leader and Project Deputy 2016-09-11**
-
-Project Leader: N.N. (currently Anton Haumer)
+Project Leader: N.N.
 
 Project Deputy: N.N.
 
-**Annex 5: Release Schedule of Category 1 Libraries 2016-09-11**
+6.4 Annex 5: Recommendation for a Release Process for Libraries
+---------------------------------------------------------------
 
-Recommended release schedule for main release (new features):
+*(2018-02-12)*
 
--   Week -9: Feature freeze, development branch is duplicated as
-    maintenance,\
-    maintenance is tagged as alpha.1
+1.  A new main version of these libraries should be released once a year
+    > typically around March 15th.
 
--   Fix remaining tickets, check by tool vendors.
+2.  A maintenance version of these libraries should be released once a
+    > year typically around Sept. 15th.
 
--   Week -6: Maintenance is tagged as beta.1
+3.  The whole process from first alpha version to the final release
+    > should not take longer than 2 months.
 
--   Regression testing, check by tool vendors.
+4.  Minor bugs or missing components shall not block the release. These
+    > pieces of work shall be included in the following release or
+    > maintenance release.
 
--   Week -3: Maintenance is tagged as rc.1.\
-    Announcement of voting
+5.  The quality of the libraries is assured by regression testing with
+    > at least 2 different tools, in comparison with the
+    > previous version. Further quality assurance tests might be added.
 
--   Regression testing, check by tool vendors
+6.5 Annex 6: Recommended Release Schedule
+-----------------------------------------
 
--   Week -1: Voting within MAP-Lib, Release
+*(2016-09-11)*
 
--   Week 0: Release, approval by MA
+### 6.5.1 Recommended release schedule for main release (new features):
 
-Recommended release schedule for maintenance release (no new features):
+-   Week -9:
 
--   Week -9: Maintenance is tagged as beta.1
+    -   Feature freeze, development branch is duplicated as maintenance,
+        > maintenance is tagged as alpha.1
 
--   Regression testing, check by tool vendors.
+    -   Fix remaining tickets, check by tool vendors.
 
--   Week -3: Maintenance is tagged as rc.1.\
-    Announcement of voting
+-   Week -6:
 
--   Regression testing, check by tool vendors
+    -   Maintenance is tagged as beta.1
 
--   Week -1: Voting within MAP-Lib, Release
+    -   Regression testing, check by tool vendors.
 
--   Week 0: Release, approval by MA
+-   Week -3:
+
+    -   Maintenance is tagged as rc.1.A
+
+    -   Announcement of voting
+
+    -   Regression testing, check by tool vendors
+
+-   Week -1:
+
+    -   Voting within MAP-Lib, Release
+
+-   Week 0:
+
+    -   Release, approval by MA
+
+### 6.5.2 Recommended release schedule for maintenance release (no new features):
+
+-   Week -9:
+
+    -   Maintenance is tagged as beta.1
+
+    -   Regression testing, check by tool vendors.
+
+-   Week -3:
+
+    -   Maintenance is tagged as rc.1
+
+    -   Announcement of voting
+
+    -   Regression testing, check by tool vendors
+
+-   Week -1:
+
+    -   Voting within MAP-Lib, Release
+
+-   Week 0:
+
+    -   Release, approval by MA
+
+
