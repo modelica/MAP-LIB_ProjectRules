@@ -331,7 +331,7 @@ Members:
     - Announcement of voting
     - Regression testing, check by tool vendors
 - Week -1:
-    - Voting within MAP-Lib, Release
+    - Voting within MAP-LIB, Release
 - Week 0:
     - Release, approval by MA
 
@@ -345,6 +345,6 @@ Members:
     - Announcement of voting
     - Regression testing, check by tool vendors
 - Week -1:
-    - Voting within MAP-Lib, Release
+    - Voting within MAP-LIB, Release
 - Week 0:
     - Release, approval by MA
