@@ -5,5 +5,6 @@ pdf:
 
 docx:
 	pandoc MAP-LIB_ProjectRules.md -s -o MAP-LIB_ProjectRules.docx
+
 clean:
 	rm -f *.docx *.pdf
