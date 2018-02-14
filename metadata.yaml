@@ -1,0 +1,13 @@
+---
+papersize: a4
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead{}
+    \fancyhead[C]{MAP-LIB Project Rules}
+    \fancyfoot[C]{\thepage}
+    \usepackage{carlito}
+    \renewcommand{\familydefault}{\sfdefault}
+geometry: margin=20mm
+fontsize: 12pt
+---
