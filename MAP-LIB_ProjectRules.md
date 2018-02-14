@@ -40,12 +40,12 @@ Project Rules of Modelica Association Project – Libraries
 Since the annexes are subject to more frequent changes than the project
 rules, the version of the annexes is tracked in the corresponding annex:
 
-  - Annex 1: Libraries covered by MAP-LIB
-  - Annex 2: Project Members
-  - Annex 3: Library Officers
-  - Annex 4: Project Leader and Project Deputy
-  - Annex 5: Recommendation for a Release Process
-  - Annex 6: Recommended Release Schedule
+- [Annex 1: Libraries covered by MAP-LIB](#annex-1-libraries-covered-by-map-lib)
+- [Annex 2: Project Members](#annex-2-project-members)
+- [Annex 3: Library Officers](#annex-3-library-officers)
+- [Annex 4: Project Leader and Project Deputy](#annex-4-project-leader-and-project-deputy)
+- [Annex 5: Recommendation for a Release Process for Libraries](#annex-5-recommendation-for-a-release-process-for-libraries)
+- [Annex 6: Recommended Release Schedule](#annex-6-recommended-release-schedule)
 
 # 3 Project Purpose #
 
