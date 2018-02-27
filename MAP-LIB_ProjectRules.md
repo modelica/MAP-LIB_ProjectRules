@@ -24,8 +24,8 @@ Project Rules of Modelica Association Project – Libraries
     - [Annex 5: Mailing Lists](#annex-5-mailing-lists)
     - [Annex 6: Recommendation for a Release Process for Libraries](#annex-6-recommendation-for-a-release-process-for-libraries)
     - [Annex 7: Recommended Release Schedule](#annex-7-recommended-release-schedule)
-        - [Annex 7.1 Recommended Release Schedule for Main Release (new features):](#annex-71-recommended-release-schedule-for-main-release-new-features)
-        - [Annex 7.2 Recommended Release Schedule for Maintenance Release (no new features):](#annex-72-recommended-release-schedule-for-maintenance-release-no-new-features)
+        - [Annex 7.1 Recommended Release Schedule for Main Release (new features)](#annex-71-recommended-release-schedule-for-main-release-new-features)
+        - [Annex 7.2 Recommended Release Schedule for Maintenance Release (no new features)](#annex-72-recommended-release-schedule-for-maintenance-release-no-new-features)
 
 # 1 Project name #
 
@@ -323,7 +323,7 @@ Members:
 
 *(2016-09-11)*
 
-### Annex 6.1 Recommended release schedule for main release (new features): ###
+### Annex 7.1 Recommended Release Schedule for Main Release (new features) ###
 
 - Week -9:
     - Feature freeze, development branch is duplicated as maintenance,
@@ -341,7 +341,7 @@ Members:
 - Week 0:
     - Release, approval by MA
 
-### Annex 6.2 Recommended release schedule for maintenance release (no new features): ###
+### Annex 7.2 Recommended Release Schedule for Maintenance Release (no new features) ###
 
 - Week -9:
     - Maintenance is tagged as beta.1
