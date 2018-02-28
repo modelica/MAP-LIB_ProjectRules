@@ -33,11 +33,11 @@ Project Rules of Modelica Association Project – Libraries
 
 # 2 Version / Changes #
 
-| **Date**   | **Comment**                                                                          |
-|------------|--------------------------------------------------------------------------------------|
-| 2018-02-28 | updated version after feedback from Martin Otter (Thomas Beutlich & Dietmar Winkler) |
-| 2018-02-12 | simplified version (Thomas Beutlich & Dietmar Winkler)                               |
-| 2017-02-27 | proposal by Anton Haumer, based on Application dated 2012-05-08                      |
+| **Date**   | **Comment**                                                     |
+|------------|-----------------------------------------------------------------|
+| 2018-02-28 | updated version after feedback from MA Board                    |
+| 2018-02-12 | simplified version (Thomas Beutlich & Dietmar Winkler)          |
+| 2017-02-27 | proposal by Anton Haumer, based on Application dated 2012-05-08 |
 
 Since the annexes are subject to more frequent changes than the project
 rules, the version of the annexes is tracked in the corresponding annex:
