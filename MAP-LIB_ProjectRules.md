@@ -188,7 +188,7 @@ accessible to all members of the MA.
 Releases of libraries covered by MAP-LIB can be initiated in two ways:
 
 1.  The Project Leader or the Project Deputy initiates a new release.
-2.  A Library Officer suggests a the initiation of a new release. The
+2.  A Library Officer suggests the initiation of a new release. The
     Project Members then vote on having a new release as suggested by
     the Library Officer. A positive vote requires a [qualified majority](#52-voting)
     of the Project Members.
