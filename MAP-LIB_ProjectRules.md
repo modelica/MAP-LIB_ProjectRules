@@ -94,14 +94,12 @@ affiliated to the organization to represent the organization in all
 matters related to this project. This person is the organization's
 liaison member.
 
-Every MA member or organization's liaison member can become a Project
-Member upon written request to the Project Leader. Membership begins at
-the next project meeting where the Project Leader has to announce the
-new members at the meeting.
-
-Membership application of neither MA members nor organization's liaison
-members requires a vote with a [qualified majority](#52-voting) of the Project
-Members.
+Membership applications shall be sent to the Project Leader. The Project
+Leader informs the Project Members about this request. If no Project Member
+brings up concerns within one week, the membership application is accepted.
+If a concern is raised, as well as for membership application of neither
+MA members nor organization's liaison members a vote is required with a
+[qualified majority](#52-voting) of the Project Members.
 
 The Project Members are listed in [Annex 2](#annex-2-project-members).
 
