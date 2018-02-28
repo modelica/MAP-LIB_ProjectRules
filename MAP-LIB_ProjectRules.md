@@ -178,7 +178,7 @@ members have to be Library Officers.
 Project meetings have to be announced at least one week in advance in
 the respective mailing lists. The mailing lists are defined in the
 [Annex 5](#annex-5-mailing-lists) and should reach
-at least all MA members.
+at least all Project Members and MA members.
 
 The meeting material (e.g., minutes, documents, presentations) is
 accessible to all members of the MA.
