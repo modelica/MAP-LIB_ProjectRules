@@ -21,10 +21,11 @@ Project Rules of Modelica Association Project – Libraries
     - [Annex 2: Project Members](#annex-2-project-members)
     - [Annex 3: Library Officers](#annex-3-library-officers)
     - [Annex 4: Project Leader and Project Deputy](#annex-4-project-leader-and-project-deputy)
-    - [Annex 5: Recommendation for a Release Process for Libraries](#annex-5-recommendation-for-a-release-process-for-libraries)
-    - [Annex 6: Recommended Release Schedule](#annex-6-recommended-release-schedule)
-        - [Annex 6.1 Recommended release schedule for main release (new features):](#annex-61-recommended-release-schedule-for-main-release-new-features)
-        - [Annex 6.2 Recommended release schedule for maintenance release (no new features):](#annex-62-recommended-release-schedule-for-maintenance-release-no-new-features)
+    - [Annex 5: Mailing Lists](#annex-5-mailing-lists)
+    - [Annex 6: Recommendation for a Release Process for Libraries](#annex-6-recommendation-for-a-release-process-for-libraries)
+    - [Annex 7: Recommended Release Schedule](#annex-7-recommended-release-schedule)
+        - [Annex 7.1 Recommended Release Schedule for Main Release (new features)](#annex-71-recommended-release-schedule-for-main-release-new-features)
+        - [Annex 7.2 Recommended Release Schedule for Maintenance Release (no new features)](#annex-72-recommended-release-schedule-for-maintenance-release-no-new-features)
 
 # 1 Project name #
 
@@ -32,10 +33,11 @@ Project Rules of Modelica Association Project – Libraries
 
 # 2 Version / Changes #
 
-| **Date**   | **Comment**                                                     |
-|------------|-----------------------------------------------------------------|
-| 2018-02-12 | simplified version (Thomas Beutlich & Dietmar Winkler)          |
-| 2017-02-27 | proposal by Anton Haumer, based on Application dated 2012-05-08 |
+| **Date**   | **Comment**                                                                          |
+|------------|--------------------------------------------------------------------------------------|
+| 2018-02-28 | updated version after feedback from Martin Otter (Thomas Beutlich & Dietmar Winkler) |
+| 2018-02-12 | simplified version (Thomas Beutlich & Dietmar Winkler)                               |
+| 2017-02-27 | proposal by Anton Haumer, based on Application dated 2012-05-08                      |
 
 Since the annexes are subject to more frequent changes than the project
 rules, the version of the annexes is tracked in the corresponding annex:
@@ -44,8 +46,9 @@ rules, the version of the annexes is tracked in the corresponding annex:
 - [Annex 2: Project Members](#annex-2-project-members)
 - [Annex 3: Library Officers](#annex-3-library-officers)
 - [Annex 4: Project Leader and Project Deputy](#annex-4-project-leader-and-project-deputy)
-- [Annex 5: Recommendation for a Release Process for Libraries](#annex-5-recommendation-for-a-release-process-for-libraries)
-- [Annex 6: Recommended Release Schedule](#annex-6-recommended-release-schedule)
+- [Annex 5: Mailing Lists](#annex-5-mailing-lists)
+- [Annex 6: Recommendation for a Release Process for Libraries](#annex-6-recommendation-for-a-release-process-for-libraries)
+- [Annex 7: Recommended Release Schedule](#annex-7-recommended-release-schedule)
 
 # 3 Project Purpose #
 
@@ -58,7 +61,7 @@ based on standardized interface definitions.
 Any library that should be covered by MAP-LIB needs approval of the
 Project Members by [qualified majority](#52-voting) of the Project Members.
 
-Libraries that are covered by MAP-LIB are listed in  [Annex 1](#annex-1-libraries-covered-by-map-lib).
+Libraries that are covered by MAP-LIB are listed in [Annex 1](#annex-1-libraries-covered-by-map-lib).
 
 # 4 License of Project Results #
 
@@ -100,7 +103,7 @@ Membership application of neither MA members nor organization's liaison
 members requires a vote with a [qualified majority](#52-voting) of the Project
 Members.
 
-The Project Members are listed in  [Annex 2](#annex-2-project-members).
+The Project Members are listed in [Annex 2](#annex-2-project-members).
 
 ### 5.1.2 Library Officers ###
 
@@ -119,9 +122,8 @@ The Project Members are listed in  [Annex 2](#annex-2-project-members).
         transfer contract has to be signed between the contributor(s)
         and the MA or the contributor(s) assigns an appropriate
         license to the MA. In this contract the initial Library
-        Officers might be defined. For future contributions a
-        Contributor License Agreement (CLA) has to be signed by
-        all contributors.
+        Officers might be defined. Once available, the MA Contributor
+        License Agreement (CLA) has to be signed by all contributors.
 
     b.  New Library Officers can be assigned by the Project Members for
         the same library/sublibrary, with a [qualified majority](#52-voting)
@@ -151,7 +153,7 @@ All Project Members elect a Project Leader and a Project Deputy for two
 years with [qualified majority](#52-voting). The Project Leader and the
 Project Deputy have to be individual members of the MA.
 
-The Project Leader has to organize meetings (at least six per year, in
+The Project Leader has to organize meetings (typically, six per year; in
 person or online), organize the releases in conformance with the library
 officers, maintain the Annexes of the project rules and report to MA.
 
@@ -170,20 +172,18 @@ The Project Leader and the Project Deputy are listed in [Annex 4](#annex-4-proje
 ## 5.2 Voting ##
 
 Voting is performed by all Project Members according to §14 of the MA
-Bylaws, but with a quorum of 9 Project Members. At least 5 of these
+Bylaws, but with a quorum of 7 Project Members. At least 4 of these
 members have to be Library Officers.
 
 ## 5.3 Meetings ##
 
 Project meetings have to be announced at least one week in advance in
-the respective mailing lists
-
-- [map-lib@modelica.org](mailto:map-lib@modelica.org)
-- [modelica-design@modelica.org](mailto:modelica-design@modelica.org)
+the respective mailing lists. The mailing lists are defined in the
+[Annex 5](#annex-5-mailing-lists) and should reach
+at least all MA members.
 
 The meeting material (e.g., minutes, documents, presentations) is
-accessible to all members of the MA. A publication of this material
-needs approval of all participants of the respective meeting.
+accessible to all members of the MA.
 
 ## 5.4 Library Releases ##
 
@@ -196,9 +196,9 @@ Releases of libraries covered by MAP-LIB can be initiated in two ways:
     of the Project Members.
 
 A Recommendation for a Release Process for libraries is given in
- [Annex 5](#annex-5-recommendation-for-a-release-process-for-libraries)
+ [Annex 6](#annex-6-recommendation-for-a-release-process-for-libraries)
 and a Recommended Release Schedule for libraries is given in
- [Annex 6](#annex-6-recommended-release-schedule).
+ [Annex 7](#annex-7-recommended-release-schedule).
 
 # Annex #
 
@@ -293,7 +293,13 @@ Members:
 - Project Leader: N.N.
 - Project Deputy: N.N.
 
-## Annex 5: Recommendation for a Release Process for Libraries ##
+## Annex 5: Mailing Lists ##
+*(2018-02-28)*
+
+- [map-lib@modelica.org](mailto:map-lib@modelica.org)
+- [modelica-design@modelica.org](mailto:modelica-design@modelica.org)
+
+## Annex 6: Recommendation for a Release Process for Libraries ##
 *(2018-02-12)*
 
 1.  A new main version of these libraries should be released once a year
@@ -313,11 +319,11 @@ Members:
     at least 2 different tools, in comparison with the
     previous version. Further quality assurance tests might be added.
 
-## Annex 6: Recommended Release Schedule ##
+## Annex 7: Recommended Release Schedule ##
 
 *(2016-09-11)*
 
-### Annex 6.1 Recommended release schedule for main release (new features): ###
+### Annex 7.1 Recommended Release Schedule for Main Release (new features) ###
 
 - Week -9:
     - Feature freeze, development branch is duplicated as maintenance,
@@ -335,7 +341,7 @@ Members:
 - Week 0:
     - Release, approval by MA
 
-### Annex 6.2 Recommended release schedule for maintenance release (no new features): ###
+### Annex 7.2 Recommended Release Schedule for Maintenance Release (no new features) ###
 
 - Week -9:
     - Maintenance is tagged as beta.1
