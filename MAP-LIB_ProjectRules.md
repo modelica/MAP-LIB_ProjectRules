@@ -35,6 +35,7 @@ Project Rules of Modelica Association Project – Libraries
 
 | **Date**   | **Comment**                                                     |
 |------------|-----------------------------------------------------------------|
+| 2018-03-21 | updated annexes 2,3,4 after 96th Modelica Design Meeting        |
 | 2018-02-28 | updated version after feedback from MA Board                    |
 | 2018-02-12 | simplified version (Thomas Beutlich & Dietmar Winkler)          |
 | 2017-02-27 | proposal by Anton Haumer, based on Application dated 2012-05-08 |
@@ -214,9 +215,8 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica3
 
 ## Annex 2: Project Members ##
-*(2018-02-12)*
+*(2018-03-21)*
 
-Names with question mark are Library Officers, but not (yet) Project
 Members:
 
   - Andreasson, Johan
@@ -228,15 +228,15 @@ Members:
   - Franke, Rüdiger
   - Gall, Leo
   - Haumer, Anton
-  - Hedberg, Daniel ?
   - Kral, Christian
-  - Majetta, Kristin ?
+  - Kuhn, Martin
+  - Majetta, Kristin
   - Olsson, Hans
   - Otter, Martin
   - Prölss, Katrin
   - Sjölund, Martin
   - Tiller, Michael
-  - Tobolar, Jakub ?
+  - Tobolar, Jakub
   - Tummescheit, Hubertus
   - Wernersson, Karl
   - Winkler, Dietmar
@@ -245,7 +245,7 @@ Members:
   - Ziske, Johannes
 
 ## Annex 3: Library Officers ##
-*(2018-02-12)*
+*(2018-03-21)*
 
   | **Library**                  | **Library Officers**                                      |
   |------------------------------|-----------------------------------------------------------|
@@ -275,7 +275,7 @@ Members:
   | `ComplexMath`                | Anton Haumer, Martin Otter, Christian Kral                |
   | `Utilities`                  | Martin Otter, Hans Olsson, Dag Brück                      |
   | `Constants`                  | Martin Otter, Hans Olsson                                 |
-  | `Icons`                      | Daniel Hedberg, Christian Kral                            |
+  | `Icons`                      | Christian Kral                                            |
   | `SIunits`                    | Martin Otter, Christian Kral                              |
   | `C-Sources`                  | Thomas Beutlich, Hans Olsson, Martin Sjölund              |
   | `Reference`                  | Dietmar Winkler, Hans Olsson                              |
@@ -286,10 +286,10 @@ Members:
   | `ObsoleteModelica3`          | Hans Olsson, Martin Otter                                 |
 
 ## Annex 4: Project Leader and Project Deputy ##
-*(2018-XX-XX)*
+*(2018-03-21)*
 
-- Project Leader: N.N.
-- Project Deputy: N.N.
+- Project Leader: Thomas Beutlich
+- Project Deputy: Dietmar Winkler
 
 ## Annex 5: Mailing Lists ##
 *(2018-02-28)*
