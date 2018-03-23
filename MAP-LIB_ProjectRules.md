@@ -35,7 +35,6 @@ Project Rules of Modelica Association Project – Libraries
 
 | **Date**   | **Comment**                                                     |
 |------------|-----------------------------------------------------------------|
-| 2018-03-21 | updated annexes 2,3,4 after 96th Modelica Design Meeting        |
 | 2018-02-28 | updated version after feedback from MA Board                    |
 | 2018-02-12 | simplified version (Thomas Beutlich & Dietmar Winkler)          |
 | 2017-02-27 | proposal by Anton Haumer, based on Application dated 2012-05-08 |
@@ -319,7 +318,7 @@ Members:
 
 ## Annex 7: Recommended Release Schedule ##
 
-*(2016-09-11)*
+*(2018-03-23)*
 
 ### Annex 7.1 Recommended Release Schedule for Main Release (new features) ###
 
@@ -331,7 +330,7 @@ Members:
     - Maintenance is tagged as beta.1
     - Regression testing, check by tool vendors.
 - Week -3:
-    - Maintenance is tagged as rc.1.A
+    - Maintenance is tagged as rc.1
     - Announcement of voting
     - Regression testing, check by tool vendors
 - Week -1:
