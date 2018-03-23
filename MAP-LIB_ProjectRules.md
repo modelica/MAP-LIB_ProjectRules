@@ -35,8 +35,6 @@ Project Rules of Modelica Association Project – Libraries
 
 | **Date**   | **Comment**                                                     |
 |------------|-----------------------------------------------------------------|
-| 2018-03-23 | fixed rc version in annex 7.1                                   |
-| 2018-03-21 | updated annexes 2,3,4 after 96th Modelica Design Meeting        |
 | 2018-02-28 | updated version after feedback from MA Board                    |
 | 2018-02-12 | simplified version (Thomas Beutlich & Dietmar Winkler)          |
 | 2017-02-27 | proposal by Anton Haumer, based on Application dated 2012-05-08 |
