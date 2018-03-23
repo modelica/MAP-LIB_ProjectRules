@@ -237,7 +237,6 @@ Members:
   - Tiller, Michael
   - Tobolar, Jakub
   - Tummescheit, Hubertus
-  - Wernersson, Karl
   - Winkler, Dietmar
   - Wischhusen, Stefan
   - Ziegler, Stephan
