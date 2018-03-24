@@ -1,14 +1,12 @@
 # MAP-LIB Project Rules #
 
-## Description ##
-
-Repository for the project rules of the Modelica Association Project - Libraries (MAP-LIB) as voted on by the members of the Modelica Association (MA) at the MA Annual Meeting 2017 in Oberpfaffenhofen on 21st March 2018.
+Repository for the project rules of the Modelica Association Project - Libraries (MAP-LIB)
 
 See [`MAP-LIB_ProjectRules.md`](MAP-LIB_ProjectRules.md)
 
 ## Current release
 
-[MAP-LIB Project Rules (2018-03-21)](../../releases/tag/2018-03-21)
+[MAP-LIB Project Rules (2018-03-21)](../../releases/tag/2018-03-21) as [voted](./Rescources/Voting_Result_MAP-LIB_ProjectRules.png) on by members of MAP-LIB and approved by the members of the Modelica Association (MA) at the MA Annual Meeting 2018 in Oberpfaffenhofen on 21st March 2018
 
 ## Build ##
 
