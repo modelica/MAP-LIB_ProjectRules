@@ -134,7 +134,7 @@ The Project Members are listed in [Annex 2](#annex-2-project-members).
         to the extent that it damages the further development of the
         library and/or do not work in the interest of this project.
         Decisions on Library Officers changes shall be approved by the
-        Project Members with a [qualified majority](#52-voting)
+        Project Members with a [qualified majority](#52-voting).
 
 3.  All Library Officers need to be Project Members.
 
