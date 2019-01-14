@@ -214,7 +214,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica3
 
 ## Annex 2: Project Members ##
-*(2018-03-21)*
+*(2019-01-14)*
 
 Members:
 
@@ -237,6 +237,7 @@ Members:
   - Tiller, Michael
   - Tobolar, Jakub
   - Tummescheit, Hubertus
+  - Vorkoetter, Stefan
   - Winkler, Dietmar
   - Wischhusen, Stefan
   - Ziegler, Stephan
