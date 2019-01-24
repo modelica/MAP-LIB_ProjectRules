@@ -244,7 +244,7 @@ Members:
   - Ziske, Johannes
 
 ## Annex 3: Library Officers ##
-*(2018-03-21)*
+*(2019-01-24)*
 
   | **Library**                  | **Library Officers**                                      |
   |------------------------------|-----------------------------------------------------------|
@@ -274,7 +274,7 @@ Members:
   | `ComplexMath`                | Anton Haumer, Martin Otter, Christian Kral                |
   | `Utilities`                  | Martin Otter, Hans Olsson, Dag Brück                      |
   | `Constants`                  | Martin Otter, Hans Olsson                                 |
-  | `Icons`                      | Christian Kral                                            |
+  | `Icons`                      | Christian Kral, Jakub Tobolar                             |
   | `SIunits`                    | Martin Otter, Christian Kral                              |
   | `C-Sources`                  | Thomas Beutlich, Hans Olsson, Martin Sjölund              |
   | `Reference`                  | Dietmar Winkler, Hans Olsson                              |
