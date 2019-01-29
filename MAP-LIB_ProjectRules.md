@@ -218,34 +218,36 @@ Libraries under strict release and maintenance conditions:
 
 Members:
 
-  - Andreasson, Johan
-  - Beutlich, Thomas
-  - Bödrich, Thomas
-  - Brück, Dag
-  - Casella, Francesco
-  - Clauß, Christoph
-  - Franke, Rüdiger
-  - Gall, Leo
-  - Haumer, Anton
-  - Kral, Christian
-  - Kuhn, Martin
-  - Lenz, Malte
-  - Majetta, Kristin
-  - Olsson, Hans
-  - Otter, Martin
-  - Riel, Joe
-  - Sjölund, Martin
-  - Thiele, Bernhard
-  - Tidefelt, Henrik
-  - Tiller, Michael
-  - Tobolar, Jakub
-  - Tummescheit, Hubertus
-  - Vorkoetter, Stefan
-  - Winkler, Dietmar
-  - Wischhusen, Stefan
-  - Zhou, Fanli
-  - Ziegler, Stephan
-  - Ziske, Johannes
+  | **Name**              | **Affiliation/Membership**                    |
+  |-----------------------|-----------------------------------------------|
+  | Andreasson, Johan     | Modelon                                       |
+  | Beutlich, Thomas      | individual                                    |
+  | Bödrich, Thomas       | individual                                    |
+  | Brück, Dag            | Dassault Systèmes                             |
+  | Casella, Francesco    | individual                                    |
+  | Clauß, Christoph      | individual                                    |
+  | Franke, Rüdiger       | individual                                    |
+  | Gall, Leo             | LTX Simulation                                |
+  | Haumer, Anton         | individual                                    |
+  | Kral, Christian       | individual                                    |
+  | Kuhn, Martin          | individual                                    |
+  | Lenz, Malte           | Wolfram MathCore                              |
+  | Majetta, Kristin      | individual                                    |
+  | Olsson, Hans          | Dassault Systèmes                             |
+  | Otter, Martin         | DLR                                           |
+  | Riel, Joe             | Maplesoft                                     |
+  | Sjölund, Martin       | IDA PELAB                                     |
+  | Thiele, Bernhard      | DLR                                           |
+  | Tidefelt, Henrik      | Wolfram MathCore                              |
+  | Tiller, Michael       | individual                                    |
+  | Tobolar, Jakub        | DLR                                           |
+  | Tummescheit, Hubertus | Modelon                                       |
+  | Vorkoetter, Stefan    | Maplesoft                                     |
+  | Winkler, Dietmar      | individual                                    |
+  | Wischhusen, Stefan    | XRG Simulation                                |
+  | Zhou, Fanli           | Suzhou Tongyuan Software & Control Technology |
+  | Ziegler, Stephan      | Dassault Systèmes                             |
+  | Ziske, Johannes       | individual                                    |
 
 ## Annex 3: Library Officers ##
 *(2019-04-01)*
