@@ -128,9 +128,9 @@ The Project Members are listed in [Annex 2](#annex-2-project-members).
         of all Project Members.
 
     c.  Initial Library Officers may be defined (if not defined in a
-        copyright transfer or license contract), library officers may
+        copyright transfer or license contract), Library Officers may
         be removed and/or new Library Officers may be appointed, if
-        Library Officers resign and/or library officers are inactive
+        Library Officers resign and/or Library Officers are inactive
         to the extent that it damages the further development of the
         library and/or do not work in the interest of this project.
         Decisions on Library Officers changes shall be approved by the
@@ -152,8 +152,8 @@ years with [qualified majority](#52-voting). The Project Leader and the
 Project Deputy have to be individual members of the MA.
 
 The Project Leader has to organize meetings (typically, six per year; in
-person or online), organize the releases in conformance with the library
-officers, maintain the Annexes of the project rules and report to MA.
+person or online), organize the releases in conformance with the Library
+Officers, maintain the Annexes of the project rules and report to MA.
 
 The Project Deputy has to support the Project Leader and to stand in for
 the Project Leader whenever the Project Leader is unable to fulfill
