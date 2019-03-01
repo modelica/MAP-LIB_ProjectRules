@@ -247,7 +247,7 @@ Members:
 ## Annex 3: Library Officers ##
 *(2019-02-07)*
 
-  | **Library**                  | **Library Officers**                                      |
+  | **Library**                  | **Library Officers** (alphabetically)                     |
   |------------------------------|-----------------------------------------------------------|
   | `Blocks`                     | Anton Haumer, Martin Otter                                |
   | `ComplexBlocks`              | Anton Haumer, Christian Kral                              |
