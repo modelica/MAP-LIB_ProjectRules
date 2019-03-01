@@ -247,38 +247,38 @@ Members:
 ## Annex 3: Library Officers ##
 *(2019-02-07)*
 
-  | **Library**                  | **Library Officers**                                      |
+  | **Library**                  | **Library Officers** (alphabetically)                     |
   |------------------------------|-----------------------------------------------------------|
-  | `Blocks`                     | Martin Otter, Anton Haumer                                |
+  | `Blocks`                     | Anton Haumer, Martin Otter                                |
   | `ComplexBlocks`              | Anton Haumer, Christian Kral                              |
-  | `Blocks.Tables`              | Thomas Beutlich, Martin Otter, Anton Haumer               |
-  | `StateGraph`                 | Martin Otter, Hans Olsson                                 |
-  | `Electrical.Analog`          | Christoph Clauss, Kristin Majetta, Christian Kral         |
+  | `Blocks.Tables`              | Thomas Beutlich, Anton Haumer, Martin Otter               |
+  | `StateGraph`                 | Hans Olsson, Martin Otter                                 |
+  | `Electrical.Analog`          | Christoph Clauss, Christian Kral, Kristin Majetta         |
   | `Electrical.Digital`         | Christoph Clauss, Kristin Majetta                         |
   | `Electrical.Machines`        | Anton Haumer, Christian Kral                              |
   | `Electrical.Multiphase`      | Anton Haumer, Christian Kral                              |
-  | `Electrical.PowerConverters` | Christian Kral, Anton Haumer                              |
+  | `Electrical.PowerConverters` | Anton Haumer, Christian Kral                              |
   | `Electrical.QuasiStationary` | Anton Haumer, Christian Kral                              |
   | `Electrical.Spice3`          | Christoph Clauss, Kristin Majetta, Joe Riel               |
   | `Magnetic.FluxTubes`         | Thomas Bödrich, Johannes Ziske                            |
-  | `Magnetic.FundamentalWave`   | Christian Kral, Anton Haumer                              |
-  | `Magnetic.QuasiStatic`       | Christian Kral, Anton Haumer                              |
-  | `Mechanics.MultiBody`        | Jakub Tobolar, Martin Otter                               |
-  | `Mechanics.Rotational`       | Jakub Tobolar, Martin Otter, Anton Haumer, Christian Kral |
-  | `Mechanics.Translational`    | Anton Haumer, Jakub Tobolar, Martin Otter, Christian Kral |
-  | `Fluid`                      | Rüdiger Franke, Francesco Casella, Hubertus Tummescheit   |
-  | `Fluid.Dissipation`          | Stefan Wischhusen, Francesco Casella                      |
-  | `Media`                      | Hubertus Tummescheit, Francesco Casella, Rüdiger Franke   |
+  | `Magnetic.FundamentalWave`   | Anton Haumer, Christian Kral                              |
+  | `Magnetic.QuasiStatic`       | Anton Haumer, Christian Kral                              |
+  | `Mechanics.MultiBody`        | Martin Otter, Jakub Tobolar                               |
+  | `Mechanics.Rotational`       | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar |
+  | `Mechanics.Translational`    | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar |
+  | `Fluid`                      | Francesco Casella, Rüdiger Franke, Hubertus Tummescheit   |
+  | `Fluid.Dissipation`          | Francesco Casella, Stefan Wischhusen                      |
+  | `Media`                      | Francesco Casella, Rüdiger Franke, Hubertus Tummescheit   |
   | `Thermal.FluidHeatFlow`      | Anton Haumer, Christian Kral                              |
   | `Thermal.HeatTransfer`       | Anton Haumer, Christian Kral                              |
-  | `Math`                       | Martin Otter, Hans Olsson                                 |
-  | `ComplexMath`                | Anton Haumer, Martin Otter, Christian Kral                |
-  | `Utilities`                  | Martin Otter, Hans Olsson, Dag Brück                      |
-  | `Constants`                  | Martin Otter, Hans Olsson                                 |
+  | `Math`                       | Hans Olsson, Martin Otter                                 |
+  | `ComplexMath`                | Anton Haumer, Christian Kral, Martin Otter                |
+  | `Utilities`                  | Dag Brück, Hans Olsson, Martin Otter                      |
+  | `Constants`                  | Hans Olsson, Martin Otter                                 |
   | `Icons`                      | Christian Kral, Jakub Tobolar                             |
-  | `SIunits`                    | Martin Otter, Christian Kral                              |
+  | `SIunits`                    | Christian Kral, Martin Otter                              |
   | `C-Sources`                  | Thomas Beutlich, Hans Olsson, Martin Sjölund              |
-  | `Reference`                  | Dietmar Winkler, Hans Olsson                              |
+  | `Reference`                  | Hans Olsson, Dietmar Winkler                              |
   | `Services`                   | Hans Olsson, Martin Otter                                 |
   | `Complex`                    | Anton Haumer, Christian Kral                              |
   | `Test`                       | Leo Gall, Martin Otter                                    |
