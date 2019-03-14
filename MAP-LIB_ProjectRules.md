@@ -214,7 +214,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica3
 
 ## Annex 2: Project Members ##
-*(2019-03-07)*
+*(2019-03-14)*
 
 Members:
 
@@ -234,6 +234,7 @@ Members:
   - Otter, Martin
   - Riel, Joe
   - Sjölund, Martin
+  - Tidefelt, Henrik
   - Tiller, Michael
   - Tobolar, Jakub
   - Tummescheit, Hubertus
