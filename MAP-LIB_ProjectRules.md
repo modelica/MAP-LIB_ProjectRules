@@ -214,7 +214,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica3
 
 ## Annex 2: Project Members ##
-*(2019-03-14)*
+*(2019-03-18)*
 
 Members:
 
@@ -242,6 +242,7 @@ Members:
   - Winkler, Dietmar
   - Wischhusen, Stefan
   - Ziegler, Stephan
+  - Zhou, Fanli
   - Ziske, Johannes
 
 ## Annex 3: Library Officers ##
