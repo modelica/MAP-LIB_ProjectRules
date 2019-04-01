@@ -246,10 +246,11 @@ Members:
   - Ziske, Johannes
 
 ## Annex 3: Library Officers ##
-*(2019-02-07)*
+*(2019-04-01)*
 
   | **Library**                  | **Library Officers** (alphabetically)                     |
   |------------------------------|-----------------------------------------------------------|
+  | `UsersGuide`                 | Christian Kral, Jakub Tobolar                             |
   | `Blocks`                     | Anton Haumer, Martin Otter                                |
   | `ComplexBlocks`              | Anton Haumer, Christian Kral                              |
   | `Blocks.Tables`              | Thomas Beutlich, Anton Haumer, Martin Otter               |
