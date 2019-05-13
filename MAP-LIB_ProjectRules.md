@@ -261,7 +261,7 @@ Members:
   | `Electrical.Machines`        | Anton Haumer, Christian Kral                              |
   | `Electrical.Multiphase`      | Anton Haumer, Christian Kral                              |
   | `Electrical.PowerConverters` | Anton Haumer, Christian Kral                              |
-  | `Electrical.QuasiStationary` | Anton Haumer, Christian Kral                              |
+  | `Electrical.QuasiStatic`     | Anton Haumer, Christian Kral                              |
   | `Electrical.Spice3`          | Christoph Clauss, Kristin Majetta, Joe Riel               |
   | `Magnetic.FluxTubes`         | Thomas Bödrich, Johannes Ziske                            |
   | `Magnetic.FundamentalWave`   | Anton Haumer, Christian Kral                              |
