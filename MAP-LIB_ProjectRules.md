@@ -214,7 +214,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica3
 
 ## Annex 2: Project Members ##
-*(2019-05-02)*
+*(2019-06-03)*
 
 Members:
 
@@ -229,6 +229,7 @@ Members:
   - Haumer, Anton
   - Kral, Christian
   - Kuhn, Martin
+  - Lenz, Malte
   - Majetta, Kristin
   - Olsson, Hans
   - Otter, Martin
