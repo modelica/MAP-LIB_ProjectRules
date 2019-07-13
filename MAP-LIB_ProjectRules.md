@@ -243,8 +243,8 @@ Members:
   - Vorkoetter, Stefan
   - Winkler, Dietmar
   - Wischhusen, Stefan
-  - Ziegler, Stephan
   - Zhou, Fanli
+  - Ziegler, Stephan
   - Ziske, Johannes
 
 ## Annex 3: Library Officers ##
