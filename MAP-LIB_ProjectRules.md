@@ -214,7 +214,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica3
 
 ## Annex 2: Project Members ##
-*(2019-06-03)*
+*(2019-12-16)*
 
 Members:
 
@@ -224,6 +224,7 @@ Members:
   | Beutlich, Thomas      | individual                                    |
   | Bödrich, Thomas       | individual                                    |
   | Brück, Dag            | Dassault Systèmes                             |
+  | Bürger, Christoff     | Dassault Systèmes                             |
   | Casella, Francesco    | individual                                    |
   | Clauß, Christoph      | individual                                    |
   | Franke, Rüdiger       | individual                                    |
@@ -250,16 +251,18 @@ Members:
   | Ziske, Johannes       | individual                                    |
 
 ## Annex 3: Library Officers ##
-*(2019-08-20)*
+*(2019-12-16)*
 
   | **Library**                  | **Library Officers** (alphabetically)                           |
   |------------------------------|-----------------------------------------------------------------|
   | `UsersGuide`                 | Christian Kral, Jakub Tobolar                                   |
   | `Blocks`                     | Anton Haumer, Martin Otter                                      |
+  | `Clocked`                    | Christoff Bürger, Bernhard Thiele                               |
   | `ComplexBlocks`              | Anton Haumer, Christian Kral                                    |
   | `Blocks.Tables`              | Thomas Beutlich, Anton Haumer, Martin Otter                     |
   | `StateGraph`                 | Hans Olsson, Martin Otter                                       |
   | `Electrical.Analog`          | Christoph Clauss, Anton Haumer, Christian Kral, Kristin Majetta |
+  | `Electrical.Batteries`       | Anton Haumer, Christian Kral                                    |
   | `Electrical.Digital`         | Christoph Clauss, Kristin Majetta                               |
   | `Electrical.Machines`        | Anton Haumer, Christian Kral                                    |
   | `Electrical.Multiphase`      | Anton Haumer, Christian Kral                                    |
