@@ -251,7 +251,7 @@ Members:
   | Ziske, Johannes       | individual                                    |
 
 ## Annex 3: Library Officers ##
-*(2019-12-16)*
+*(2020-01-20)*
 
   | **Library**                  | **Library Officers** (alphabetically)                           |
   |------------------------------|-----------------------------------------------------------------|
@@ -269,7 +269,7 @@ Members:
   | `Electrical.PowerConverters` | Anton Haumer, Christian Kral                                    |
   | `Electrical.QuasiStatic`     | Anton Haumer, Christian Kral                                    |
   | `Electrical.Spice3`          | Christoph Clauss, Kristin Majetta, Joe Riel                     |
-  | `Magnetic.FluxTubes`         | Thomas Bödrich, Johannes Ziske                                  |
+  | `Magnetic.FluxTubes`         | Thomas Bödrich, Anton Haumer, Christian Kral, Johannes Ziske    |
   | `Magnetic.FundamentalWave`   | Anton Haumer, Christian Kral                                    |
   | `Magnetic.QuasiStatic`       | Anton Haumer, Christian Kral                                    |
   | `Mechanics.MultiBody`        | Martin Otter, Jakub Tobolar                                     |
