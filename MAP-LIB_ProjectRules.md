@@ -251,7 +251,7 @@ Members:
   | Ziske, Johannes       | individual                                    |
 
 ## Annex 3: Library Officers ##
-*(2020-01-20)*
+*(2020-03-07)*
 
   | **Library**                  | **Library Officers** (alphabetically)                           |
   |------------------------------|-----------------------------------------------------------------|
@@ -265,7 +265,7 @@ Members:
   | `Electrical.Batteries`       | Anton Haumer, Christian Kral                                    |
   | `Electrical.Digital`         | Christoph Clauss, Kristin Majetta                               |
   | `Electrical.Machines`        | Anton Haumer, Christian Kral                                    |
-  | `Electrical.Multiphase`      | Anton Haumer, Christian Kral                                    |
+  | `Electrical.Polyphase`       | Anton Haumer, Christian Kral                                    |
   | `Electrical.PowerConverters` | Anton Haumer, Christian Kral                                    |
   | `Electrical.QuasiStatic`     | Anton Haumer, Christian Kral                                    |
   | `Electrical.Spice3`          | Christoph Clauss, Kristin Majetta, Joe Riel                     |
