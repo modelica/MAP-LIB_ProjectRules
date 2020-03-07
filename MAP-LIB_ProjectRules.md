@@ -285,7 +285,7 @@ Members:
   | `Utilities`                  | Dag Brück, Hans Olsson, Martin Otter                            |
   | `Constants`                  | Hans Olsson, Martin Otter                                       |
   | `Icons`                      | Christian Kral, Jakub Tobolar                                   |
-  | `SIunits`                    | Christian Kral, Martin Otter                                    |
+  | `Units`                      | Christian Kral, Martin Otter                                    |
   | `C-Sources`                  | Thomas Beutlich, Hans Olsson, Martin Sjölund                    |
   | `Reference`                  | Hans Olsson, Dietmar Winkler                                    |
   | `Services`                   | Hans Olsson, Martin Otter                                       |
