@@ -292,7 +292,7 @@ Members:
   | `Complex`                    | Anton Haumer, Christian Kral                                    |
   | `Test`                       | Leo Gall, Martin Otter                                          |
   | `TestOverdetermined`         | Leo Gall, Martin Otter                                          |
-  | `ObsoleteModelica3`          | Hans Olsson, Martin Otter                                       |
+  | `ObsoleteModelica4`          | Hans Olsson, Martin Otter                                       |
 
 ## Annex 4: Project Leader and Project Deputy ##
 *(2018-03-21)*
