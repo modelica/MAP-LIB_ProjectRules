@@ -251,7 +251,7 @@ Members:
   | Ziske, Johannes       | individual                                    |
 
 ## Annex 3: Library Officers ##
-*(2020-01-20)*
+*(2020-03-07)*
 
   | **Library**                  | **Library Officers** (alphabetically)                           |
   |------------------------------|-----------------------------------------------------------------|
@@ -265,7 +265,7 @@ Members:
   | `Electrical.Batteries`       | Anton Haumer, Christian Kral                                    |
   | `Electrical.Digital`         | Christoph Clauss, Kristin Majetta                               |
   | `Electrical.Machines`        | Anton Haumer, Christian Kral                                    |
-  | `Electrical.Multiphase`      | Anton Haumer, Christian Kral                                    |
+  | `Electrical.Polyphase`       | Anton Haumer, Christian Kral                                    |
   | `Electrical.PowerConverters` | Anton Haumer, Christian Kral                                    |
   | `Electrical.QuasiStatic`     | Anton Haumer, Christian Kral                                    |
   | `Electrical.Spice3`          | Christoph Clauss, Kristin Majetta, Joe Riel                     |
@@ -285,14 +285,15 @@ Members:
   | `Utilities`                  | Dag Brück, Hans Olsson, Martin Otter                            |
   | `Constants`                  | Hans Olsson, Martin Otter                                       |
   | `Icons`                      | Christian Kral, Jakub Tobolar                                   |
-  | `SIunits`                    | Christian Kral, Martin Otter                                    |
+  | `Units`                      | Christian Kral, Martin Otter                                    |
   | `C-Sources`                  | Thomas Beutlich, Hans Olsson, Martin Sjölund                    |
   | `Reference`                  | Hans Olsson, Dietmar Winkler                                    |
   | `Services`                   | Hans Olsson, Martin Otter                                       |
   | `Complex`                    | Anton Haumer, Christian Kral                                    |
   | `Test`                       | Leo Gall, Martin Otter                                          |
   | `TestOverdetermined`         | Leo Gall, Martin Otter                                          |
-  | `ObsoleteModelica3`          | Hans Olsson, Martin Otter                                       |
+  | `TestConversion4`            | Leo Gall, Martin Otter                                          |
+  | `ObsoleteModelica4`          | Hans Olsson, Martin Otter                                       |
 
 ## Annex 4: Project Leader and Project Deputy ##
 *(2018-03-21)*
