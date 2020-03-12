@@ -201,7 +201,7 @@ and a Recommended Release Schedule for libraries is given in
 # Annex #
 
 ## Annex 1: Libraries covered by MAP-LIB ##
-*(2018-02-12)*
+*(2020-03-12)*
 
 Libraries under strict release and maintenance conditions:
 
@@ -210,8 +210,9 @@ Libraries under strict release and maintenance conditions:
   - ModelicaServices
   - Complex
   - ModelicaTest
+  - ModelicaTestConversion4
   - ModelicaTestOverdetermined
-  - ObsoleteModelica3
+  - ObsoleteModelica4
 
 ## Annex 2: Project Members ##
 *(2019-12-16)*
