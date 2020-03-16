@@ -215,13 +215,12 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica4
 
 ## Annex 2: Project Members ##
-*(2019-12-16)*
+*(2020-03-12)*
 
 Members:
 
   | **Name**              | **Affiliation/Membership**                    |
   |-----------------------|-----------------------------------------------|
-  | Andreasson, Johan     | Modelon                                       |
   | Beutlich, Thomas      | individual                                    |
   | Bödrich, Thomas       | individual                                    |
   | Brück, Dag            | Dassault Systèmes                             |
@@ -235,11 +234,13 @@ Members:
   | Kuhn, Martin          | individual                                    |
   | Lenz, Malte           | Wolfram MathCore                              |
   | Majetta, Kristin      | individual                                    |
+  | Navratil, Jiri        | Modelon                                       |
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
   | Riel, Joe             | Maplesoft                                     |
   | Sjölund, Martin       | IDA PELAB                                     |
   | Thiele, Bernhard      | DLR                                           |
+  | Thorade, Matthis      | Modelon                                       |
   | Tidefelt, Henrik      | Wolfram MathCore                              |
   | Tiller, Michael       | individual                                    |
   | Tobolar, Jakub        | DLR                                           |
