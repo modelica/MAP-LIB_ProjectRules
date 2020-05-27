@@ -298,10 +298,10 @@ Members:
   | `ObsoleteModelica4`          | Hans Olsson, Martin Otter                                       |
 
 ## Annex 4: Project Leader and Project Deputy ##
-*(2018-03-21)*
+*(2020-05-27)*
 
-- Project Leader: Thomas Beutlich
-- Project Deputy: Dietmar Winkler
+- Project Leader: vacant
+- Project Deputy: vacant
 
 ## Annex 5: Mailing Lists ##
 *(2018-02-28)*
