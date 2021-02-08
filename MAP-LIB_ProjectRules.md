@@ -239,6 +239,7 @@ Members:
   | Otter, Martin         | DLR                                           |
   | Riel, Joe             | Maplesoft                                     |
   | Sjölund, Martin       | IDA PELAB                                     |
+  | Shmoylova, Elena      | Maplesoft                                     |
   | Thiele, Bernhard      | DLR                                           |
   | Thorade, Matthis      | Modelon                                       |
   | Tidefelt, Henrik      | Wolfram MathCore                              |
