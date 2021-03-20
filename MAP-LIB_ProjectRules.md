@@ -215,7 +215,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica4
 
 ## Annex 2: Project Members ##
-*(2020-03-12)*
+*(2021-02-08)*
 
 Members:
 
@@ -238,8 +238,8 @@ Members:
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
   | Riel, Joe             | Maplesoft                                     |
-  | Sjölund, Martin       | IDA PELAB                                     |
   | Shmoylova, Elena      | Maplesoft                                     |
+  | Sjölund, Martin       | IDA PELAB                                     |
   | Thiele, Bernhard      | DLR                                           |
   | Thorade, Matthis      | Modelon                                       |
   | Tidefelt, Henrik      | Wolfram MathCore                              |
