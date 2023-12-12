@@ -297,10 +297,10 @@ Members:
   | `ObsoleteModelica4`          | Hans Olsson, Martin Otter                                       |
 
 ## Annex 4: Project Leader and Project Deputy ##
-*(2020-05-27)*
+*(2023-11-14)*
 
-- Project Leader: vacant
-- Project Deputy: vacant
+- Project Leader: Francesco Casella
+- Project Deputy: Anton Haumer
 
 ## Annex 5: Mailing Lists ##
 *(2018-02-28)*
