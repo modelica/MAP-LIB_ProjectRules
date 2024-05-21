@@ -234,7 +234,6 @@ Members:
   | Lenz, Malte           | Wolfram MathCore                              |
   | Majetta, Kristin      | individual                                    |
   | Narashiman, Arunkumar | Modelon                                       |
-  | Navratil, Jiri        | individual                                    |
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
   | Riel, Joe             | Maplesoft                                     |
