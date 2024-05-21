@@ -215,7 +215,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica4
 
 ## Annex 2: Project Members ##
-*(2023-08-07)*
+*(2023-12-12)*
 
 Members:
 
@@ -227,18 +227,19 @@ Members:
   | Bürger, Christoff     | Dassault Systèmes                             |
   | Casella, Francesco    | individual                                    |
   | Clauß, Christoph      | individual                                    |
-  | Franke, Rüdiger       | individual                                    |
   | Gall, Leo             | LTX Simulation                                |
   | Haumer, Anton         | individual                                    |
   | Kral, Christian       | individual                                    |
   | Kuhn, Martin          | individual                                    |
   | Lenz, Malte           | Wolfram MathCore                              |
   | Majetta, Kristin      | individual                                    |
+  | Narashiman, Arunkumar | Modelon                                       |
+  | Navratil, Jiri        | individual                                    |
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
   | Riel, Joe             | Maplesoft                                     |
-  | Sjölund, Martin       | IDA PELAB                                     |
   | Shmoylova, Elena      | Maplesoft                                     |
+  | Sjölund, Martin       | IDA PELAB                                     |
   | Thiele, Bernhard      | DLR                                           |
   | Thorade, Matthis      | Modelon                                       |
   | Tidefelt, Henrik      | Wolfram MathCore                              |
@@ -276,9 +277,9 @@ Members:
   | `Mechanics.MultiBody`        | Martin Otter, Jakub Tobolar                                     |
   | `Mechanics.Rotational`       | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar       |
   | `Mechanics.Translational`    | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar       |
-  | `Fluid`                      | Francesco Casella, Rüdiger Franke, Hubertus Tummescheit         |
+  | `Fluid`                      | Francesco Casella, Arunkumar Narashiman                         |
   | `Fluid.Dissipation`          | Francesco Casella, Stefan Wischhusen                            |
-  | `Media`                      | Francesco Casella, Rüdiger Franke, Hubertus Tummescheit         |
+  | `Media`                      | Francesco Casella, Arunkumar Narashiman                         |
   | `Thermal.FluidHeatFlow`      | Anton Haumer, Christian Kral                                    |
   | `Thermal.HeatTransfer`       | Anton Haumer, Christian Kral                                    |
   | `Math`                       | Hans Olsson, Martin Otter                                       |
