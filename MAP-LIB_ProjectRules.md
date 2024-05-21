@@ -277,7 +277,7 @@ Members:
   | `Mechanics.Rotational`       | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar       |
   | `Mechanics.Translational`    | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar       |
   | `Fluid`                      | Francesco Casella, Arunkumar Narashiman                         |
-  | `Fluid.Dissipation`          | Francesco Casella, Stefan Wischhusen                            |
+  | `Fluid.Dissipation`          | Francesco Casella                                               |
   | `Media`                      | Francesco Casella, Arunkumar Narashiman                         |
   | `Thermal.FluidHeatFlow`      | Anton Haumer, Christian Kral                                    |
   | `Thermal.HeatTransfer`       | Anton Haumer, Christian Kral                                    |
