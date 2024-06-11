@@ -260,7 +260,7 @@ Members:
   | `Blocks`                     | Anton Haumer, Martin Otter                                      |
   | `Clocked`                    | Christoff Bürger, Bernhard Thiele                               |
   | `ComplexBlocks`              | Anton Haumer, Christian Kral                                    |
-  | `Blocks.Tables`              | Thomas Beutlich, Anton Haumer, Martin Otter                     |
+  | `Blocks.Tables`              | Thomas Beutlich, Hans Olsson, Martin Otter                     |
   | `StateGraph`                 | Hans Olsson, Martin Otter                                       |
   | `Electrical.Analog`          | Christoph Clauss, Anton Haumer, Christian Kral, Kristin Majetta |
   | `Electrical.Batteries`       | Anton Haumer, Christian Kral                                    |
@@ -277,7 +277,6 @@ Members:
   | `Mechanics.Rotational`       | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar       |
   | `Mechanics.Translational`    | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar       |
   | `Fluid`                      | Francesco Casella, Arunkumar Narashiman                         |
-  | `Fluid.Dissipation`          | Francesco Casella                                               |
   | `Media`                      | Francesco Casella, Arunkumar Narashiman                         |
   | `Thermal.FluidHeatFlow`      | Anton Haumer, Christian Kral                                    |
   | `Thermal.HeatTransfer`       | Anton Haumer, Christian Kral                                    |
