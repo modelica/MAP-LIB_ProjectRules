@@ -252,7 +252,7 @@ Members:
   | Ziske, Johannes       | individual                                    |
 
 ## Annex 3: Library Officers ##
-*(2020-03-07)*
+*(2024-06-11)*
 
   | **Library**                  | **Library Officers** (alphabetically)                           |
   |------------------------------|-----------------------------------------------------------------|
