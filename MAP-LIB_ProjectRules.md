@@ -215,7 +215,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica4
 
 ## Annex 2: Project Members ##
-*(2024-05-21)*
+*(2025-05-05)*
 
 Members:
 
@@ -233,10 +233,10 @@ Members:
   | Kuhn, Martin          | individual                                    |
   | Lenz, Malte           | Wolfram MathCore                              |
   | Majetta, Kristin      | individual                                    |
-  | Narashiman, Arunkumar | Modelon                                       |
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
   | Riel, Joe             | Maplesoft                                     |
+  | Selvan, Nithish       | Modelon                                       | 
   | Shmoylova, Elena      | Maplesoft                                     |
   | Sjölund, Martin       | IDA PELAB                                     |
   | Thiele, Bernhard      | DLR                                           |
@@ -244,7 +244,7 @@ Members:
   | Tidefelt, Henrik      | Wolfram MathCore                              |
   | Tiller, Michael       | individual                                    |
   | Tobolar, Jakub        | DLR                                           |
-  | Tummescheit, Hubertus | Modelon                                       |
+  | Tummescheit, Hubertus | Model Based Innovation                        |
   | Winkler, Dietmar      | individual                                    |
   | Wischhusen, Stefan    | XRG Simulation                                |
   | Zhou, Fanli           | Suzhou Tongyuan Software & Control Technology |
