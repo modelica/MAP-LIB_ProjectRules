@@ -233,6 +233,7 @@ Members:
   | Kuhn, Martin          | individual                                    |
   | Lenz, Malte           | Wolfram MathCore                              |
   | Majetta, Kristin      | individual                                    |
+  | Narasimhan, Arunkumar | individual 
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
   | Riel, Joe             | Maplesoft                                     |
@@ -276,8 +277,8 @@ Members:
   | `Mechanics.MultiBody`        | Martin Otter, Jakub Tobolar                                     |
   | `Mechanics.Rotational`       | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar       |
   | `Mechanics.Translational`    | Anton Haumer, Christian Kral, Martin Otter, Jakub Tobolar       |
-  | `Fluid`                      | Francesco Casella, Arunkumar Narashiman                         |
-  | `Media`                      | Francesco Casella, Arunkumar Narashiman                         |
+  | `Fluid`                      | Francesco Casella, Arunkumar Narasimhan                         |
+  | `Media`                      | Francesco Casella, Arunkumar Narasimhan                         |
   | `Thermal.FluidHeatFlow`      | Anton Haumer, Christian Kral                                    |
   | `Thermal.HeatTransfer`       | Anton Haumer, Christian Kral                                    |
   | `Math`                       | Hans Olsson, Martin Otter                                       |
