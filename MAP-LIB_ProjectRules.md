@@ -238,7 +238,7 @@ Members:
   | Otter, Martin         | DLR                                           |
   | Riel, Joe             | Maplesoft                                     |
   | Selvan, Nithish       | Modelon                                       | 
-  | Shmoylova, Elena      | Maplesoft                                     |
+  | Shmoylova, Elena      | individual                                     |
   | Sjölund, Martin       | IDA PELAB                                     |
   | Thiele, Bernhard      | DLR                                           |
   | Thorade, Matthis      | Modelon                                       |
