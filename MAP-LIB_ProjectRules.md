@@ -236,7 +236,6 @@ Members:
   | Narasimhan, Arunkumar | individual 
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
-  | Riel, Joe             | Maplesoft                                     |
   | Selvan, Nithish       | Modelon                                       | 
   | Shmoylova, Elena      | individual                                     |
   | Sjölund, Martin       | IDA PELAB                                     |
