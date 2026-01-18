@@ -215,7 +215,7 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica4
 
 ## Annex 2: Project Members ##
-*(2025-05-05)*
+*(2026-01-13)*
 
 Members:
 
