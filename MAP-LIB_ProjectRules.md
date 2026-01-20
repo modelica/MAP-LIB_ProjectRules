@@ -236,8 +236,9 @@ Members:
   | Narasimhan, Arunkumar | individual 
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
+  | Schmidt, Herbert      | Hochschule Bochum                             |
   | Selvan, Nithish       | Modelon                                       | 
-  | Shmoylova, Elena      | individual                                     |
+  | Shmoylova, Elena      | individual                                    |
   | Sjölund, Martin       | IDA PELAB                                     |
   | Thiele, Bernhard      | DLR                                           |
   | Thorade, Matthis      | Modelon                                       |
