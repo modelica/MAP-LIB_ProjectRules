@@ -215,13 +215,14 @@ Libraries under strict release and maintenance conditions:
   - ObsoleteModelica4
 
 ## Annex 2: Project Members ##
-*(2026-01-13)*
+*(2026-04-21)*
 
 Members:
 
   | **Name**              | **Affiliation/Membership**                    |
   |-----------------------|-----------------------------------------------|
   | Beutlich, Thomas      | individual                                    |
+  | Bolognese, Michele    | individual                                    |
   | Bödrich, Thomas       | individual                                    |
   | Brück, Dag            | Dassault Systèmes                             |
   | Bürger, Christoff     | Dassault Systèmes                             |
@@ -231,13 +232,15 @@ Members:
   | Haumer, Anton         | individual                                    |
   | Kral, Christian       | individual                                    |
   | Kuhn, Martin          | individual                                    |
+  | Kulhanek, Tomas       | individual                                    |
   | Lenz, Malte           | Wolfram MathCore                              |
   | Majetta, Kristin      | individual                                    |
-  | Narasimhan, Arunkumar | individual 
+  | Narasimhan, Arunkumar | individual                                    |
   | Olsson, Hans          | Dassault Systèmes                             |
   | Otter, Martin         | DLR                                           |
+  | Schmidt, Herbert      | individual                                    |
   | Selvan, Nithish       | Modelon                                       | 
-  | Shmoylova, Elena      | individual                                     |
+  | Shmoylova, Elena      | individual                                    |
   | Sjölund, Martin       | IDA PELAB                                     |
   | Thiele, Bernhard      | DLR                                           |
   | Thorade, Matthis      | Modelon                                       |
@@ -245,6 +248,7 @@ Members:
   | Tiller, Michael       | individual                                    |
   | Tobolar, Jakub        | DLR                                           |
   | Tummescheit, Hubertus | Model Based Innovation                        |
+  | Wang, Bo              | individual                                    |
   | Winkler, Dietmar      | individual                                    |
   | Wischhusen, Stefan    | XRG Simulation                                |
   | Zhou, Fanli           | Suzhou Tongyuan Software & Control Technology |
