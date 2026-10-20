@@ -264,17 +264,17 @@ Members:
   | `Blocks`                     | Anton Haumer, Martin Otter                                      |
   | `Clocked`                    | Christoff Bürger, Bernhard Thiele                               |
   | `ComplexBlocks`              | Anton Haumer, Christian Kral                                    |
-  | `Blocks.Tables`              | Thomas Beutlich, Hans Olsson, Martin Otter                     |
+  | `Blocks.Tables`              | Thomas Beutlich, Hans Olsson, Martin Otter                      |
   | `StateGraph`                 | Hans Olsson, Martin Otter                                       |
-  | `Electrical.Analog`          | Christoph Clauss, Anton Haumer, Christian Kral, Kristin Majetta |
+  | `Electrical.Analog`          | Anton Haumer, Christian Kral                                    |
   | `Electrical.Batteries`       | Anton Haumer, Christian Kral                                    |
-  | `Electrical.Digital`         | Christoph Clauss, Kristin Majetta                               |
+  | `Electrical.Digital`         | vacant                                                          |
   | `Electrical.Machines`        | Anton Haumer, Christian Kral                                    |
   | `Electrical.Polyphase`       | Anton Haumer, Christian Kral                                    |
   | `Electrical.PowerConverters` | Anton Haumer, Christian Kral                                    |
   | `Electrical.QuasiStatic`     | Anton Haumer, Christian Kral                                    |
-  | `Electrical.Spice3`          | Christoph Clauss, Kristin Majetta, Joe Riel                     |
-  | `Magnetic.FluxTubes`         | Thomas Bödrich, Anton Haumer, Christian Kral, Johannes Ziske    |
+  | `Electrical.Spice3`          | Joe Riel                                                        |
+  | `Magnetic.FluxTubes`         | Anton Haumer, Christian Kral                                    |
   | `Magnetic.FundamentalWave`   | Anton Haumer, Christian Kral                                    |
   | `Magnetic.QuasiStatic`       | Anton Haumer, Christian Kral                                    |
   | `Mechanics.MultiBody`        | Martin Otter, Jakub Tobolar                                     |
